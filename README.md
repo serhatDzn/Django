@@ -13,4 +13,6 @@ django'unun default admin şifresi için->
 python manage.py migrate
 python manage.py createsuperuser
 
+
+docker-compose up --build -d
 ```
